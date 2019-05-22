@@ -1,19 +1,19 @@
 {
 "portfolio": [{ 
        "id": 1, 
-       "img": "p1", 
+       "img": "{p1}", 
        "title": "Tugas Akhir WEB2",
        "github": "https://github.com/vi0letmist",
        "description" : "Web Project - Frontend Developer" 
       },
       { "id": 2, 
-       "img" : "p2", 
+       "img" : "{p2}", 
        "title": "Proyek Aplikasi 3", 
        "github": "https://github.com/vi0letmist",
        "description" : "Design Project - User Interface"
       },
       { "id": 3, 
-       "img" : "p3", 
+       "img" : "{p3}", 
        "title": "Tugas Akhir WEB 3", 
        "github": "https://github.com/vi0letmist",
        "description" : "Web Project - Frontend Developer"
