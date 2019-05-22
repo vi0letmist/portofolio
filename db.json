@@ -1,7 +1,7 @@
 {
 "portfolio": [{ 
        "id": 1, 
-       "img": "{p1}", 
+       "img": "[{p1}]", 
        "title": "Tugas Akhir WEB2",
        "github": "https://github.com/vi0letmist",
        "description" : "Web Project - Frontend Developer" 
